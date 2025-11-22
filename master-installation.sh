@@ -16,4 +16,6 @@
 
 ./stow.sh
 
+./ncdu.sh
+
 ./tmux.sh
