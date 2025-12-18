@@ -10,3 +10,6 @@ function fo {
 
 alias window="sleep 2 && hyprctl activewindow -j | jq -r '.class'"
 alias calendar="lvsk-calendar"
+
+alias cat='bat --paging=never --style=plain --tabs=2'
+alias rcat='/bin/cat'
